@@ -1,0 +1,33 @@
+Initialize engine version: 5.6.4p2 (278fc6850ee0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   23.21.13.8813
+Begin MonoManager ReloadAssembly
+Platform assembly: I:\projects\Unity\New Unity Project\Build\Test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading I:\projects\Unity\New Unity Project\Build\Test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: I:\projects\Unity\New Unity Project\Build\Test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading I:\projects\Unity\New Unity Project\Build\Test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: I:\projects\Unity\New Unity Project\Build\Test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading I:\projects\Unity\New Unity Project\Build\Test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: I:\projects\Unity\New Unity Project\Build\Test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading I:\projects\Unity\New Unity Project\Build\Test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.017 seconds
+Platform assembly: I:\projects\Unity\New Unity Project\Build\Test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: I:\projects\Unity\New Unity Project\Build\Test_Data\Managed\System.dll (this message is harmless)
+desktop: 1280x1024 60Hz; virtual: 4560x1083 at -1360,-59
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.561554 ms
+NullReferenceException: Object reference not set to an instance of an object
+  at RandBG.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1a18 -> priority: 1 
+  Thread -> id: 10e8 -> priority: 1 
